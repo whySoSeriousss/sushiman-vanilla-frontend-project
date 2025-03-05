@@ -1,9 +1,10 @@
 # 🍣 SushiMan - Vanilla Frontend Project  
 
 A beautifully designed **landing page** for a sushi restaurant, built using **HTML, CSS, and Vanilla JavaScript**. This project was inspired by **JavaScriptMastery** and leverages **AOS (Animate On Scroll)** for smooth animations.  
+![image](https://github.com/user-attachments/assets/516bbcca-dca3-4ed5-ac51-bcaadae66d2e)
 
-![Sushi Landing Page](https://via.placeholder.com/1200x600)  
-*(Replace with an actual screenshot of your project)*  
+![image](https://github.com/user-attachments/assets/6a21e121-a0e3-4173-99ab-b6c6f69dfbdf)
+
 
 ## 🚀 Features  
 - **Responsive Design** 📱: Works seamlessly across all devices.  
